@@ -1,1 +1,2 @@
 talald
+talald vagyok
